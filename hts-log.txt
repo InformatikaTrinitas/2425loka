@@ -1,0 +1,24 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 01 Feb 2025 07:47:31 at https://sharenkeisha2223.wixsite.com/lokawignanumala +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://sharenkeisha2223.wixsite.com/lokawignanumala -O1 "C:\My Web Sites\loka" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+07:47:51	Error: 	"Not Found" (404) at link https://sharenkeisha2223.wixsite.com/s (from https://sharenkeisha2223.wixsite.com/lokawignanumala)
+07:47:51	Error: 	"Not Found" (404) at link https://sharenkeisha2223.wixsite.com/t (from https://sharenkeisha2223.wixsite.com/lokawignanumala)
+07:47:51	Error: 	"Not Found" (404) at link https://sharenkeisha2223.wixsite.com/ (from https://sharenkeisha2223.wixsite.com/lokawignanumala)
+07:48:11	Error: 	"Not Found" (404) at link https://sharenkeisha2223.wixsite.com/sitemap.xml (from https://sharenkeisha2223.wixsite.com/lokawignanumala)
+07:48:11	Error: 	"Not Found" (404) at link https://sharenkeisha2223.wixsite.com/feed.xml (from https://sharenkeisha2223.wixsite.com/lokawignanumala)
+07:48:11	Error: 	"Not Found" (404) at link https://sharenkeisha2223.wixsite.com/decodeURIComponent(e (from https://sharenkeisha2223.wixsite.com/lokawignanumala)
+07:48:11	Error: 	"Not Found" (404) at link https://sharenkeisha2223.wixsite.com/lokawignanumala/s (from https://sharenkeisha2223.wixsite.com/lokawignanumala/why)
+07:48:11	Error: 	"Not Found" (404) at link https://sharenkeisha2223.wixsite.com/lokawignanumala/t (from https://sharenkeisha2223.wixsite.com/lokawignanumala/why)
+07:48:11	Error: 	"Bad Request" (400) at link https://sharenkeisha2223.wixsite.com/lokawignanumala/robots.txt (from https://sharenkeisha2223.wixsite.com/lokawignanumala/why)
+07:48:11	Error: 	"Not Found" (404) at link https://sharenkeisha2223.wixsite.com/lokawignanumala/sitemap.xml (from https://sharenkeisha2223.wixsite.com/lokawignanumala/why)
+07:48:11	Error: 	"Not Found" (404) at link https://sharenkeisha2223.wixsite.com/lokawignanumala/feed.xml (from https://sharenkeisha2223.wixsite.com/lokawignanumala/why)
+07:48:11	Error: 	"Bad Request" (400) at link https://sharenkeisha2223.wixsite.com/lokawignanumala/decodeURIComponent(e (from https://sharenkeisha2223.wixsite.com/lokawignanumala/why)
+07:48:11	Error: 	"Bad Request" (400) at link https://static.wixstatic.com/media/695568_4cf9eb3fe6b04df19c473c4ec55d60c0~mv2.png/v1/crop/x_1450,y_100,w_303,h_623/fill/w_118,h_187,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/695568_4cf9eb3fe6b04df19c473c4ec55d60c0~mv2.png (from https://sharenkeisha2223.wixsite.com/lokawignanumala/four-elements)
+
+HTTrack Website Copier/3.49-2 mirror complete in 40 seconds : 78 links scanned, 64 files written (8947083 bytes overall) [6067099 bytes received at 151677 bytes/sec], 3977498 bytes transferred using HTTP compression in 30 files, ratio 24%, 3.2 requests per connection
+(13 errors, 0 warnings, 0 messages)

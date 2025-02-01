@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+sharenkeisha2223.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1738370851|ZLAIhHS7Zr2f
+sharenkeisha2223.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	None
+sharenkeisha2223.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=uw2-pub-1_g
+
